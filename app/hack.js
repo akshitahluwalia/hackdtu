@@ -1,5 +1,5 @@
 function create(){
-	console.log("working");
+	
 	var node = document.createElement("LI");  
 	node.setAttribute("id", "list");          
 	var text = document.getElementById("text").value;     // Create a <li> node
